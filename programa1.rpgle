@@ -1,7 +1,8 @@
 **FREE
 ctl-opt dftactgrp(*no) actgrp(*caller);
 
-// Declarar variables
+// Declarar variables nuevo
+// comentario para probar nuevo
 Dcl-Pr programa1 Extpgm('programa1');
     dcl-parm num1 int(10);
     dcl-parm num2 int(10); 
