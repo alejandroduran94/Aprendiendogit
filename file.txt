@@ -6,3 +6,4 @@ quinta prueba
 sexta prueba desde visual studio code
 otra prueba
 agrego
+desde vscode sin terminal
