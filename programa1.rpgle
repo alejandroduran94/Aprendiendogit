@@ -18,6 +18,8 @@ resultado = num1 + num2;
 
 // Mostrar el resultado
 dsply 'El resultado de la suma es: ' + %char(resultado);
+resultado = num1 - num2;
+dsply 'El resultado de la resta es: ' + %char(resultado);
 
 // Finalizar el programa
 *inlr = *on;
