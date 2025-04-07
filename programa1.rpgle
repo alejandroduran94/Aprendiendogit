@@ -29,7 +29,7 @@ dsply 'El resultado de la resta es: ' + %char(resultado);
 resultado = num1 / num2;
 
 // Mostrar el resultado
-dsply 'El resultado de la resta es: ' + %char(resultado);
+dsply 'El resultado de la division es: ' + %char(resultado);
 
 // Finalizar el programa
 *inlr = *on;
