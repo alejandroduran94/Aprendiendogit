@@ -16,4 +16,10 @@ Kelvin = Celsius + 273.15;
 // Mostrar el resultado
 Dsply 'Temperatura en Kelvin: ' + %Char(Kelvin);
 
+// Cálculo de la temperatura en Kelvin
+Kelvin = Celsius + 273.15;
+
+// Mostrar el resultado
+Dsply 'Temperatura en Kelvin: ' + %Char(Kelvin);
+
 Return;
