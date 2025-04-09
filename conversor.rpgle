@@ -28,5 +28,5 @@ Fahrenheit = (Celsius * 9/5) + 32;
 
 // Mostrar el resultado
 Dsply 'Temperatura en Fahrenheit: ' + %Char(Fahrenheit);
-
+//se ha ajustado
 Return;
