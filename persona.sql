@@ -3,7 +3,8 @@ CREATE TABLE persona (
     nombres VARCHAR(50),
     apellidos VARCHAR(50),
     telefono VARCHAR(20),
-    correo_electronico VARCHAR(100),
+    email VARCHAR(100),
     Estado Varchar(10) Default 'Activo',
-    Edad Int(10)
+    Edad Int(10),
+
 );
